@@ -1,1 +1,1 @@
-This is a Zomato Clone built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application replicates the basic functionality of Zomato, allowing users to browse restaurants, view menus, and place orders.
+This is a Zomato Clone built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application replicates the basic functionality of Zomato, allowing users to browse  view menus, and place orders.
